@@ -1,9 +1,10 @@
+package com.brithbroadcast.intro;
+
 import android.os.Bundle;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-git initpackage com.brithbroadcast.intro;
 
 public class MainActivity extends AppCompatActivity {
 
